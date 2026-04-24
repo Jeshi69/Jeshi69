@@ -10,25 +10,7 @@ Hi! I’m Jeshi, a passionate computer science student focused on building stron
 * 💡 Interested in **Web Development, Problem Solving**
 * 🎯 Goal: Become a skilled Software Engineer
 * ⚡ I enjoy turning logic into real applications
-
-## 🛠️ Skills
-
-I have learned:
-
-* 💻 C
-* 💻 C++
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Jeshi69\&show_icons=true\&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeshi69\&theme=tokyonight)
-
-
-## 👀 Profile Views
+  ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeshi69\&color=blue)
 
@@ -37,6 +19,22 @@ I have learned:
 
 * 📧 Email: [miftauljannatjeshi@gmail.com](mailto:miftauljannatjeshi@gmail.com)
 * Linkedin: www.linkedin.com/in/miftaul-jannat-jeshi
+
+
+## 🛠️ Skills
+
+I have learned:
+
+* 💻C, C++
+* 🌐 HTML, CSS, JavaScript
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jeshi69\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeshi69\&theme=tokyonight)
+
+
 
 
 ## ⚡ Fun Fact
