@@ -4,8 +4,6 @@ Hi! I’m Jeshi, a passionate computer science student focused on building stron
 
 🎓 Computer Science Student | 💻 Aspiring Software Engineer
 
----
-
 ## 🚀 About Me
 
 * 🌱 I am currently learning **C, C++, Data structure & Algorithm, HTML, CSS, JavaScript**
@@ -22,16 +20,6 @@ I have learned:
 * 🌐 HTML
 * 🎨 CSS
 * ⚡ JavaScript
-
-
-## 📂 Projects
-
-* 🔹 Simple Calculator (C / JavaScript)
-* 🔹 Basic Web Pages (HTML & CSS)
-* 🔹 Mini Simple  Weather APP (HTML , CSS & Js)
-* 🔹 Contact Manager 
-
----
 
 ## 📊 GitHub Stats
 
@@ -51,8 +39,6 @@ I have learned:
 * Linkedin: www.linkedin.com/in/miftaul-jannat-jeshi
 
 
-
-
 ## ⚡ Fun Fact
 
 I enjoy learning how programming languages and compilers work 🚀
@@ -60,4 +46,3 @@ I enjoy learning how programming languages and compilers work 🚀
 
 ⭐ *“Consistency is the key to success in programming.”*
 
--->
