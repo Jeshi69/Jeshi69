@@ -47,7 +47,10 @@ I have learned:
 
 ## 🔗 Connect With Me
 
-* 📧 Email: [miftauljannatjeshi@example.com](mailto:miftauljannatjeshi@example.com)
+* 📧 Email: [miftauljannatjeshi@gmail.com](mailto:miftauljannatjeshi@gmail.com)
+* Linkedin: www.linkedin.com/in/miftaul-jannat-jeshi
+
+
 
 
 ## ⚡ Fun Fact
