@@ -21,13 +21,6 @@ Hi! I’m Jeshi, a passionate computer science student focused on building stron
 * Linkedin: www.linkedin.com/in/miftaul-jannat-jeshi
 
 
-## 🛠️ Skills
-
-I have learned:
-
-* 💻C, C++
-* 🌐 HTML, CSS, JavaScript
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jeshi69\&show_icons=true\&theme=tokyonight)
