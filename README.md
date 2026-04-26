@@ -1,3 +1,6 @@
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jeshi69\&color=blue)
 ## Hi there 👋
 
 Hi! I’m Jeshi, a passionate computer science student focused on building strong programming fundamentals and real-world projects.
@@ -10,10 +13,6 @@ Hi! I’m Jeshi, a passionate computer science student focused on building stron
 * 💡 Interested in **Web Development, Problem Solving**
 * 🎯 Goal: Become a skilled Software Engineer
 * ⚡ I enjoy turning logic into real applications
-  ## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jeshi69\&color=blue)
-
 
 ## 🔗 Connect With Me
 
