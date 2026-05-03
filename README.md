@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeshi69\&color=blue)
 
-## Hi there 👋
+## Hi there  👋
 
 Hi! I’m Jeshi, a passionate computer science student focused on building strong programming fundamentals and real-world projects.
 
